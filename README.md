@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF69B4"/>
 <img width="2056" height="512" alt="Gemini_Generated_Image_z0b6duz0b6duz0b6" src="https://github.com/user-attachments/assets/21653e3b-680f-41da-858f-f17abb4069da" />
  
@@ -59,5 +60,6 @@
 
 # 🌐 Connect With Me
 
-[LinkedIn]www.linkedin.com/in/sona-sanuj-032659370
+LINKEDIN:www.linkedin.com/in/sona-sanuj-032659370
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
