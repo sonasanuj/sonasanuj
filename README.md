@@ -1,10 +1,12 @@
+<img src=<img width="2056" height="512" alt="Gemini_Generated_Image_z0b6duz0b6duz0b6" src="https://github.com/user-attachments/assets/21653e3b-680f-41da-858f-f17abb4069da" />
+ width="100%" />
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Learner;Open+Source+Contributor" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sona Sanuj</h1>
 
-<h3 align="center">💻 First Year CSE Student | 🌸 Python Learner | ✨ Open Source Enthusiast</h3>
+
  
 
 <h3 align="center">💻GSSoC’26|Computer Science Major | C++ • Python • Web Dev | Coding and Tech Enthusiast | First Year Student @ St.Joseph’s college of engineering and technology</h3>
