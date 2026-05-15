@@ -57,9 +57,19 @@
 ![](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
 
 ---
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
 # 🌐 Connect With Me
 
-LINKEDIN:www.linkedin.com/in/sona-sanuj-032659370
+
+<p align="center">
+<a href="www.linkedin.com/in/sona-sanuj-032659370">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sonasanuj247@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
 
