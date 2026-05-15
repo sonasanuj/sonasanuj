@@ -58,6 +58,11 @@
 
 ---
 ![](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+# 🎧 Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwjku22ysi2l4g7fwlamdbgkdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6C63FF&bar_color_cover=false"/>
+</p>
 # 🌐 Connect With Me
 
 
