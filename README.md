@@ -21,6 +21,10 @@
 - ✨ Goal: Become a skilled Software Engineer
 
 ---
+<p align="center">
+  <img width="736" height="414" alt="𝒞𝓊𝓉𝑒 ℬ𝒶𝓃𝓃𝑒𝓇" src="https://github.com/user-attachments/assets/0dc531ef-7bc4-4ee9-9dfe-f8139dfbdb7e" />
+
+</p>
 
 # 🚀 Tech Stack
 
