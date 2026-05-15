@@ -6,15 +6,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;GSSoC'26;Open+Source+Contributor;Tech+Enthusiast" />
 </p>
 
----
+
 
  <h1 align="center">🌸 Sona Sanuj 🌸</h1>
 
 
 <h3 align="center">💻GSSoC’26|Computer Science Major | C++ • Python • Web Dev | Coding and Tech Enthusiast | First Year Student @ St.Joseph’s college of engineering and technology</h3>
-
-<p align="center">⋆｡°✩</p>
 ---
+<p align="center">⋆｡°✩</p>
+
 
 # 🌸 About Me
 
@@ -27,8 +27,8 @@
   <img width="736" height="414" alt="𝒞𝓊𝓉𝑒 ℬ𝒶𝓃𝓃𝑒𝓇" src="https://github.com/user-attachments/assets/0dc531ef-7bc4-4ee9-9dfe-f8139dfbdb7e" />
 
 </p>
----
 
+---
 <p align="center">⋆｡°✩</p>
 # 🚀 Tech Stack
 
@@ -49,9 +49,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<p align="center">⋆｡°✩</p>
 ---
+<p align="center">⋆｡°✩</p>
+
 
 # 📊 GitHub Stats
 
@@ -59,8 +59,9 @@
 
 ![](https://streak-stats.demolab.com?user=sonasanuj&theme=tokyonight)
 
----
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sonasanuj&theme=tokyo-night)
+---
 <p align="center">⋆｡°✩</p>
 # 🎧 Spotify
 
