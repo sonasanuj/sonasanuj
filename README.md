@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sona Sanuj</h1>
 
 <h3 align="center">💻 First Year CSE Student | 🌸 Python Learner | ✨ Open Source Enthusiast</h3>
- <h1 align="center">Hi 👋, I'm Sona Sanuj</h1>
+ 
 
 <h3 align="center">💻GSSoC’26|Computer Science Major | C++ • Python • Web Dev | Coding and Tech Enthusiast | First Year Student @ St.Joseph’s college of engineering and technology</h3>
 
