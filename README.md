@@ -6,10 +6,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;GSSoC'26;Open+Source+Contributor;Tech+Enthusiast" />
 </p>
 
-<h1 align="center">Sona Sanuj</h1>
 
 
- 
+ <h1 align="center">💙 Sona Sanuj 💙</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Open+Source+Enthusiast;Python+Learner;Future+Software+Engineer"/>
+</h3>
 
 <h3 align="center">💻GSSoC’26|Computer Science Major | C++ • Python • Web Dev | Coding and Tech Enthusiast | First Year Student @ St.Joseph’s college of engineering and technology</h3>
 
