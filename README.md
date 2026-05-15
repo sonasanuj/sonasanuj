@@ -62,7 +62,7 @@
 
 
 <p align="center">
-<a href="www.linkedin.com/in/sona-sanuj-032659370">
+<a href="www.linkedin.com/in/sona-sanuj">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
