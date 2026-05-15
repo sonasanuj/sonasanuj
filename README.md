@@ -52,12 +52,12 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=sonasanuj&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=sonasanuj&theme=tokyonight)
 
 ---
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sonasanuj&theme=tokyo-night)
 # 🎧 Spotify
 
 <p align="center">
