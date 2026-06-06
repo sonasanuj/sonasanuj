@@ -65,16 +65,6 @@
 
 <p align="center">⋆｡°✩</p>
 
-# 🎧 Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwjku22ysi2l4g7fwlamdbgkdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=FF69B4&bar_color_cover=false"/>
-</p>
-
----
-
-<p align="center">⋆｡°✩</p>
-
 # 🌐 Connect With Me
 
 <p align="center">
