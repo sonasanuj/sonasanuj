@@ -66,19 +66,26 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sonasanuj&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=sonasanuj&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sonasanuj&theme=tokyo-night)
+<img src="https://github-readme-stats.vercel.app/api?username=sonasanuj&show_icons=true&theme=rose_pine" />
 
----
+<img src="https://streak-stats.demolab.com?user=sonasanuj&theme=rose-pine" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonasanuj&theme=rose-pine" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonasanuj&layout=compact&theme=rose_pine" />
+
+</p>
+```
+
 <p align="center">⋆｡°✩</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sonasanuj&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
-----
+
 
 <p align="center">⋆｡°✩</p>
 
