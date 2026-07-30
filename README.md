@@ -62,6 +62,12 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sonasanuj&theme=tokyo-night)
 
 ---
+<p align="center">⋆｡°✩</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sonasanuj&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+</p>
+----
 
 <p align="center">⋆｡°✩</p>
 
